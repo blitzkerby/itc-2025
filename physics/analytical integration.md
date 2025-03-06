@@ -14,7 +14,7 @@ Acceleration is determined by the forces which act on moving bodies and is compu
 
 For simplicity with $s = s_0$, $v = v_0$, and $t = 0$ designated at the beginning of the interval, then for a time interval $t$, the integrated equations become:
 
-$$ \int_{v_0}^{v} v \, dv = a \int_{0}^{t} dt \quad \text{or} \quad v = v_0 + at $$
+$$ \int_{v_0}^{v} \, dv = a \int_{0}^{t} dt \quad \text{or} \quad v = v_0 + at $$
 
 $$ \int_{s_0}^{s} v \, dv = a \int_{s_0}^{s} ds \quad \text{or} \quad v^2 = v_0^2 + 2a(s - s_0) $$
 
@@ -29,7 +29,7 @@ These relations are necessarily restricted to the special case where the acceler
 
 **(b) Acceleration Given as a Function of Time, \( a = f(t) \).** Substitution of the function into the first of Eqs. 2/2 gives \( f(t) = \frac{dv}{dt} \). Multiplying by \( dt \) separates the variables and permits integration. Thus,
 
-$$ \int_{v_0}^{v} v \, dv = \int_{0}^{t} f(t) \, dt \quad \text{or} \quad v = v_0 + \int_{0}^{t} f(t) \, dt $$
+$$ \int_{v_0}^{v} \, dv = \int_{0}^{t} f(t) \, dt \quad \text{or} \quad v = v_0 + \int_{0}^{t} f(t) \, dt $$
 
 
 From this integrated expression for v as a function of t, the position coordinate s is obtained by integrating Eq. 2/1, which, in form, would be:
