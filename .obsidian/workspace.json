@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "right": {
     "id": "89748712b2f959ec",
@@ -184,13 +185,22 @@
   },
   "active": "d3a2d700b7056b23",
   "lastOpenFiles": [
+    "physics/samples/problem-2-1/sample-problem-2-1.pdf",
+    "physics/samples/problem-2-2",
+    "physics/samples/problem-2-1/sample-problem-2-1.ipynb",
+    "physics/samples/problem-2-1/sample-problem-2-1.html",
+    "physics/samples/sample-problem-2-1.ipynb",
+    "physics/samples/sample-problem-2-1.html",
+    "physics/samples/problem-2-1",
+    "physics/samples/sample-problem-2-2.html",
+    "physics/samples/sample-problem-2-2.ipynb",
+    "physics/samples",
+    "physics/sample-p",
     "physics/kinematics.md",
     "physics/velocity and acceleration.md",
     "physics/analytical integration.md",
-    "Untitled",
     "physics/rectilinear motion.md",
     "physics/particle motion.md",
-    "physics/images",
     "physics/images/rectilinear-motion.png",
     "physics/method of attack.md"
   ]

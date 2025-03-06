@@ -10,7 +10,7 @@ In many problems, however, the functional relationship between position coordina
 Acceleration is determined by the forces which act on moving bodies and is computed from the equations of kinetics discussed in subsequent chapters. Depending on the nature of the forces, the acceleration may be specified as a function of time, velocity, or position coordinate, or as a combined function of these quantities. The procedure for integrating the differential equation in each case is indicated as follows.
 
 
-**(a) Constant Acceleration.** When \( a \) is constant, the first of Eqs. 2/2 and 2/3 can be integrated directly.
+**(a) Constant Acceleration.** When $a$ is constant, the first of Eqs. 2/2 and 2/3 can be integrated directly.
 
 For simplicity with $s = s_0$, $v = v_0$, and $t = 0$ designated at the beginning of the interval, then for a time interval $t$, the integrated equations become:
 
@@ -26,13 +26,11 @@ These relations are necessarily restricted to the special case where the acceler
 
 **Caution:** The foregoing equations have been integrated for constant acceleration only. A common mistake is to use these equations for problems involving variable acceleration, where they do not apply.
 
+
 **(b) Acceleration Given as a Function of Time, \( a = f(t) \).** Substitution of the function into the first of Eqs. 2/2 gives \( f(t) = \frac{dv}{dt} \). Multiplying by \( dt \) separates the variables and permits integration. Thus,
 
 $$ \int_{v_0}^{v} v \, dv = \int_{0}^{t} f(t) \, dt \quad \text{or} \quad v = v_0 + \int_{0}^{t} f(t) \, dt $$
 
-Here's the text extracted from the image you uploaded:
-
----
 
 From this integrated expression for v as a function of t, the position coordinate s is obtained by integrating Eq. 2/1, which, in form, would be:
 
@@ -41,6 +39,7 @@ $$\int_{s_0}^{s} ds = \int_{t_0}^{t} v dt \quad \text{or} \quad s = s_0 + \int_{
 If the indefinite integral is employed, the end conditions are used to establish the constants of integration. The results are identical to those obtained by using the definite integral.
 
 If desired, the displacement \( s \) can be obtained by a direct solution of the second-order differential equation \( \ddot{s} = f(t) \) obtained by substitution of \( f(t) \) into the second of Eqs. 2/2.
+
 
 **(c) Acceleration Given as a Function of Velocity, \( a = f(v) \)**. Substitution of the function into the first of Eqs. 2/2 gives \( f(v) = \frac{dv}{dt} \), which permits separating the variables and integrating. Thus,
 
@@ -53,6 +52,7 @@ Another approach is to substitute the function \( a = f(v) \) into the first of 
 $$\int_{v_0}^{v} \frac{v \, dv}{f(v)} = \int_{s_0}^{s} ds \quad \text{or} \quad s = s_0 + \int_{v_0}^{v} \frac{v \, dv}{f(v)}$$
 
 Note that this equation gives \( s \) in terms of \( v \) without explicit reference to \( t \).
+
 
 **(d) Acceleration Given as a Function of Displacement, \( a = f(s) \)**. Substituting the function into Eq. 2/3 and integrating gives the form:
 
