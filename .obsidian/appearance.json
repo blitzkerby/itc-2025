@@ -2,5 +2,7 @@
   "cssTheme": "Typewriter",
   "baseFontSizeAction": true,
   "baseFontSize": 17,
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "interfaceFontFamily": "JetBrains Mono NL",
+  "textFontFamily": "Cambria Math,JetBrains Mono"
 }

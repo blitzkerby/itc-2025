@@ -1,0 +1,3 @@
+[[statics]]
+[[kinematics]]
+[[dynamics]]

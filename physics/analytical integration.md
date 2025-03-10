@@ -66,6 +66,3 @@ which gives \( t \) as a function of \( s \). Finally, we can rearrange to obtai
 
 In each of the foregoing cases when the acceleration varies according to some functional relationship, the possibility of solving the equations by direct mathematical integration will depend on the form of the function. In cases where the integration is excessively awkward or difficult, integration by graphical, numerical, or computer methods can be utilized.
 
----
-
-Let me know if you need any more help with this text!

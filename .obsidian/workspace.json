@@ -4,38 +4,121 @@
     "type": "split",
     "children": [
       {
-        "id": "f433600d3b081ce4",
+        "id": "1f585b704e981a8f",
         "type": "tabs",
         "children": [
           {
-            "id": "d3a2d700b7056b23",
+            "id": "b58d34210fd1eaaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physics/analytical integration.md",
+                "file": "french/articles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "analytical integration"
+              "title": "articles"
             }
           },
           {
-            "id": "34439473ce6af9d7",
+            "id": "3a8b71814a58e5a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physics/velocity and acceleration.md",
+                "file": "french/Les articles définis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "velocity and acceleration"
+              "title": "Les articles définis"
+            }
+          },
+          {
+            "id": "2f5d7dad665d0362",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "french/articles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "articles"
+            }
+          },
+          {
+            "id": "81c31109ec621fbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "french/Les articles définis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Les articles définis"
+            }
+          },
+          {
+            "id": "de3f4b5e6d967470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "french/Les articles définis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Les articles définis"
+            }
+          },
+          {
+            "id": "3cdabd4683ecbafa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "french/lune.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lune"
+            }
+          },
+          {
+            "id": "f540fbe10807a602",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted Image 20250310102015_590.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted Image 20250310102015_590"
+            }
+          },
+          {
+            "id": "ff62e7593dd18797",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -92,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "89748712b2f959ec",
@@ -109,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "physics/velocity and acceleration.md",
+                "file": "physics/relative motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +201,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for velocity and acceleration"
+              "title": "Backlinks for relative motion"
             }
           },
           {
@@ -180,28 +262,57 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d3a2d700b7056b23",
+  "active": "ff62e7593dd18797",
   "lastOpenFiles": [
-    "physics/samples/sample-problem-2-2.ipynb",
-    "physics/samples/sample-problem-2-1.ipynb",
-    "physics/samples/problem-2-1/sample-problem-2-1.pdf",
-    "physics/samples/problem-2-2",
-    "physics/samples/problem-2-1/sample-problem-2-1.ipynb",
-    "physics/samples/problem-2-1/sample-problem-2-1.html",
-    "physics/samples/sample-problem-2-1.html",
-    "physics/samples/problem-2-1",
-    "physics/samples/sample-problem-2-2.html",
-    "physics/samples",
-    "physics/sample-p",
-    "physics/kinematics.md",
+    "physics/images/sp-2-15.png",
+    "sp-2-15.png",
+    "Pasted image 20250310135117.png",
+    "physics/relative motion.md",
+    "physics/samples/sample-problem-2-15.ipynb",
+    "physics/images/sp-2-207-sol.png",
+    "physics/assets/Chapter-2-Compositions-du-mouvement.pdf",
+    "physics/assets/Chapter-2-Compositions-du-mouvement.pdf.crdownload",
+    "physics/images/sp-2-207.png",
+    "Pasted Image 20250310102015_590.png",
+    "test.md",
+    "Excalidraw/sample-problem-2-207.md",
+    "french/Le Systéme Politique Français.md",
+    "german",
+    "french/Les articles définis.md",
+    "french/Les articles indéfinis.md",
+    "french/lune.md",
+    "french/articles.md",
+    "french/feminine nouns.md",
+    "french/french nouns.md",
+    "french/french numbers.md",
+    "french/masculine nouns.md",
+    "french/Untitled 1.md",
+    "music/Clair De Lune.md",
+    "music",
+    "french/Le articles indéfinis.md",
+    "physics/the datum in pulleys.md",
+    "physics/two degrees of freedom.md",
+    "Excalidraw",
+    "Pasted image 20250309150603.png",
+    "physics/images/pulley-datum.png",
+    "physics/images/pulleys.png",
+    "physics/intuitive understanding of pulleys.md",
     "physics/velocity and acceleration.md",
-    "physics/analytical integration.md",
+    "physics/samples/sample-problem-2-207.ipynb",
+    "misc/prompt for formatting.md",
+    "physics/images/two-degrees-of-freedom.PNG",
+    "physics/momentum vector.md",
+    "misc",
+    "physics/export/TD5-01.pdf",
+    "physics/export",
+    "physics/images/TD5-01.PNG",
     "physics/rectilinear motion.md",
-    "physics/particle motion.md",
-    "physics/images/rectilinear-motion.png",
-    "physics/method of attack.md"
+    "physics/relative motion 1.md",
+    "physics/dynamics.md",
+    "physics/classical mechanics.md"
   ]
 }
