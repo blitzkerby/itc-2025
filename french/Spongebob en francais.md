@@ -1,0 +1,2 @@
+- $\text{J'ai ce qu'il vous faut : un pantalon.}$  -  I have what you need : pants
+- $\text{Oh, enfin, qui aime se balader avec les genoux tremblotants}$ - After all, who likes walking around with shivering knees?

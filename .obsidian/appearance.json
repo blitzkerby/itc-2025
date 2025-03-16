@@ -1,8 +1,8 @@
 {
   "cssTheme": "Typewriter",
   "baseFontSizeAction": true,
-  "baseFontSize": 17,
-  "theme": "moonstone",
+  "baseFontSize": 22,
+  "theme": "system",
   "interfaceFontFamily": "JetBrains Mono NL",
   "textFontFamily": "Cambria Math,JetBrains Mono"
 }

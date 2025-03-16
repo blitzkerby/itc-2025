@@ -1,0 +1,2 @@
+- $\text{Allez, c'est d'accord!}$ - okay, it's settled
+- 

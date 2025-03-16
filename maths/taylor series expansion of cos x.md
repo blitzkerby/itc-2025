@@ -1,0 +1,1 @@
+It should be noted that, if you already have the Taylor series expansion of sine, you can directly take the derivative of said series to derive us to cos x immediately.

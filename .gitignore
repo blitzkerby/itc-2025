@@ -1,6 +1,12 @@
 assets/
+asset/
+exports/
 export/
+resources/
+resource/
+htmls/
 html/
+Excalidraw/
 .html
 .pdf
 .obsidian
